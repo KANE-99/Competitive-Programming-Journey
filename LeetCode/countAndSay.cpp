@@ -1,3 +1,4 @@
+/* https://leetcode.com/explore/interview/card/top-interview-questions-easy/127/strings/886/ */
 class Solution {
 public:
     string countAndSay(int n) {
